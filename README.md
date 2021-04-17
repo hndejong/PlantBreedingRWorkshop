@@ -1,7 +1,7 @@
 # PlantBreedingRWorkshop
-R Workshop for Plant Breeding Applications in Ethiopia
+### R Workshop for Plant Breeding Applications in Ethiopia
 
-
+#### Purpose
 
 These materials were developed for an introductory R workshop for plant breeders in Bahir Dar, Ethiopia. 
 
@@ -13,9 +13,8 @@ The workshop is two-part:
 
 The example data sets were selected to be relevant to the interests of Ethiopian plant breeders. The code was designed to require minimal package downloads in case of unreliable internet connections. 
 
---
 
-Data set sources:
+#### Data set sources
 
 island_areas.csv is a file containing the built-in R data set "islands"
 orange_tree_growth.txt is a file containing the built-in R data set "Orange"
