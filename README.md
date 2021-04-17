@@ -8,7 +8,7 @@ These materials were developed for an introductory R workshop for plant breeders
 The slides in PlantBreedingRWorkshopSlides.pdf summarize key points, with examples and exercises found in Exercises.R and Exercise_solutions.R.
 
 The workshop is two-part:
-1) R basics, with examples and exercises
+1) R and RStudio basics, with examples and exercises
 2) R applications for plant breeding, with example code to read in, visualize, and analyze some example data from a potato variety trial
 
 The example data sets were selected to be relevant to the interests of Ethiopian plant breeders. The code was designed to require minimal package downloads in case of unreliable internet connections. 
