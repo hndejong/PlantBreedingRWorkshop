@@ -17,6 +17,7 @@ The example data sets were selected to be relevant to the interests of Ethiopian
 #### Data set sources
 
 island_areas.csv is a file containing the built-in R data set "islands"
+
 orange_tree_growth.txt is a file containing the built-in R data set "Orange"
 
 Potato.Variety.Trial.Data.txt is fabricated example data based on the types of data often collected for potato variety field trials
